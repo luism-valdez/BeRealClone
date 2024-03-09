@@ -1,10 +1,10 @@
-# Project 2 - *Name of App Here*
+# Project 2 - BEeRealClone
 
-Submitted by: **Your Name Here**
+Submitted by: luism-v
 
-**Name of your app** is an app that ... [TODO] 
+BeRealClone is an app that clones some of the main functionalities of the trending app called BeReal. In this app, users post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos.
 
-Time spent: **X** hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
