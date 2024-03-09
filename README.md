@@ -1,4 +1,4 @@
-# Project 2 - BEeRealClone
+# Project 2 - BeRealClone
 
 Submitted by: luism-v
 
