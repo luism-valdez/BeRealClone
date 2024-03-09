@@ -10,12 +10,12 @@ Time spent: 8 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see an app icon in the home screen and a styled launch screen.
-- [ ] User can register a new account
-- [ ] User can log in with newly created account
-- [ ] App has a feed of posts when user logs in
-- [ ] User can upload a new post which takes in a picture from photo library and an optional caption	
-- [ ] User is able to logout	
+- [X] Users see an app icon in the home screen and a styled launch screen.
+- [X] User can register a new account
+- [X] User can log in with newly created account
+- [X] App has a feed of posts when user logs in
+- [X] User can upload a new post which takes in a picture from photo library and an optional caption	
+- [X] User is able to logout	
  
 The following **optional** features are implemented:
 
@@ -31,9 +31,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
+<div>
+    <a href="https://www.loom.com/share/f9d35f2a27cc4a70b7aa053307bb256d">
+    </a>
+    <a href="https://www.loom.com/share/f9d35f2a27cc4a70b7aa053307bb256d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9d35f2a27cc4a70b7aa053307bb256d-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
